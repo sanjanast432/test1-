@@ -1,9 +1,8 @@
-main( ) 
+public class helloworld
 {
-    extrn a, b, c;
-    putchar(a); putchar(b); putchar(c); putchar('!*n');
+    public static void main (strings [] args)
+    {
+        system.out.printIn("hello world");
+    }
 }
- 
-a 'hell';
-b 'o, w';
-c 'orld';
+    
